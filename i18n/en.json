@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Leucosticte"
+		]
+	},
+	"redirectwarning": "You are now leaving {{SITENAME}}!",
+	"redirectwarning-goodurl": "You are now leaving {{SITENAME}}",
+	"redirectwarning-goodurltext": "Click '''[$1 here]''' to go to $1",
+	"redirectwarning-goodinterwiki": "You are now leaving {{SITENAME}}",
+	"redirectwarning-goodinterwikitext": "Click '''[[$1|here]]''' to go to {{canonicalurl:$1}}",
+	"redirectwarning-desc": "Causes external and internal links to redirect to a special page",
+	"redirectwarning-invalid": "Invalid URL or interwiki link",
+	"redirectwarning-invalidtext": "'''$1''' is not a valid URL or interwiki link"
+}
